@@ -12,7 +12,7 @@ It will vary, but `ddddd` will lean towards **tabletop RPGs**, like D&D 5e. *How
 
 A typical session might be in a randomly generated dungeon or a small pre-built scenario ( sometimes referred to as a "one-shot" ). We will avoid the long intricately-plotted campaigns - not because we don't like them, but because they don't as easily support dropping in and out.
 
-I'm interested in trying different games and systems, including, but not limited to: D&D, Mouseguard RPG, One-Page RPGs, HeroQuest, Fiasco, Mansions of Madness, Pathfinder and anything else we can find.
+I'm interested in trying different games and systems, including, but not limited to: **D&D**, **Mouseguard RPG**, **One-Page RPGs**, **HeroQuest**, **Fiasco**, **Mansions of Madness**, **Pathfinder** and anything else we can find.
 
 # When
 
