@@ -54,3 +54,9 @@ I've never been a GM before. I've never played several of the games in my game c
 Make an effort to create the time and space to do the things I want to do. Don't let life pass me by.
 
 ![reroll character](Test.png)
+
+# Links
+
+ - The Alexandrian Open Table Manifesto: https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto
+ - Donjon random dungeon generator: http://donjon.bin.sh/5e/dungeon/
+ - Reroll digital character sheet: https://www.reroll.co/
