@@ -28,7 +28,7 @@ Getting together for a shorter time **beats** not getting together at all.
 
 # Preparation
 
-![spell ring](pic_artifact_spellring.jpg)
+<img src="https://davemenninger.github.io/ddddd/pic_artifact_spellring.jpg" height=200/>
 
 ## What should you bring?
 
