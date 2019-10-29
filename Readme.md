@@ -57,7 +57,7 @@ Make an effort to create the time and space to do the things I want to do. Don't
 
 ![reroll character](Test.png)
 
-# Links
+# Credits
 
  - [The Alexandrian Open Table Manifesto](https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto)
  - [Donjon random dungeon generator](http://donjon.bin.sh/5e/dungeon/)
