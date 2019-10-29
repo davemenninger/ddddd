@@ -28,6 +28,8 @@ Getting together for a shorter time **beats** not getting together at all.
 
 # Preparation
 
+![spell ring](pic_artifact_spellring.jpg)
+
 ## What should you bring?
 
 **Nothing!** Just be here. That's it. ( Bring dice, characters sheets, books, or miniatures only if you feel like it. )
@@ -60,3 +62,4 @@ Make an effort to create the time and space to do the things I want to do. Don't
  - The Alexandrian Open Table Manifesto: https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto
  - Donjon random dungeon generator: http://donjon.bin.sh/5e/dungeon/
  - Reroll digital character sheet: https://www.reroll.co/
+ - HeroQuest Image packs: http://english.yeoldeinn.com/design-tools.php
