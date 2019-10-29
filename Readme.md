@@ -16,7 +16,7 @@ I'm interested in trying different games and systems, including, but not limited
 
 # When
 
-The goal is for `ddddd` to be very low commitment. It is an "open table" format, meaning you can drop in and out and not miss anything. Show up when you can and don't feel bad when you can't.
+The goal is for `ddddd` to be very low commitment. It is an **"open table"** format, meaning you can drop in and out and not miss anything. Show up when you can and don't feel bad when you can't.
 
 ## Scheduling
 
