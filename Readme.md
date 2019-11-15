@@ -59,7 +59,8 @@ Make an effort to create the time and space to do the things I want to do. Don't
 
 # Credits
 
- - [The Alexandrian Open Table Manifesto](https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto)
- - [Donjon random dungeon generator](http://donjon.bin.sh/5e/dungeon/)
- - [Reroll digital character sheet](https://www.reroll.co/)
- - [HeroQuest Image packs](http://english.yeoldeinn.com/design-tools.php)
+- [The Alexandrian Open Table Manifesto](https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto)
+- [Roleplay Rescue](https://anchor.fm/rpgrescue)
+- [Donjon random dungeon generator](http://donjon.bin.sh/5e/dungeon/)
+- [Reroll digital character sheet](https://www.reroll.co/)
+- [HeroQuest Image packs](http://english.yeoldeinn.com/design-tools.php)
